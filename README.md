@@ -1,1 +1,3 @@
 # Cryptography2
+Over sixty percent of the population using messaging application and email tocommunicate. Most of these applications have a security backbone to ensure theprivacy and security of text being transmitted. This is Encryption. Most of secureline protocols that leverage Encryption for safe transmission of message using DESencryption, to mention, even in Digital signatures and .
+This report mainly revolves around the usage ofData Encryption Standard(DES) operating inCipher Feedback Mode(CFB) . Data Encryption Standard(DES) is a block cipher algorithm that takes plain text in blocks of 64 bits andconverts them to cipher-text using keys of 48 bits. It is a symmetric key algorithm,which means that the same key is used for encrypting and decryption.
